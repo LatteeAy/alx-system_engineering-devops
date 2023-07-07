@@ -1,0 +1,6 @@
+  /alx-system_engineering-devops/0x00-shell_basics:
+  total used in directory 4 available 2096200
+  drwxr-xr-x 2 root root 60 Jul  6 18:20 .
+  drwxr-xr-x 4 root root 60 Jul  6 18:19 ..
+  lrwxrwxrwx 1 root root 22 Jul  6 18:20 .#0-current_working_directory -> root@7dd4a5415a31.2054
+  -rw-r--r-- 1 root root 11 Jul  6 18:19 README.md
